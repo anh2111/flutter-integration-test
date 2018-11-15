@@ -8,6 +8,8 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  flutter_driver:
+    sdk: flutter
 
   qr_mobile_vision:
     path: ../
